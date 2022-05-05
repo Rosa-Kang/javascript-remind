@@ -55,7 +55,7 @@ button#start-button::before:active::before {
   height: 400px;
   display: flex;
   flex-wrap: wrap;
-  background-color: yellow;
+  background-color: #fdfd96;
 }
 
 .grid div {
@@ -73,7 +73,7 @@ button#start-button::before:active::before {
   height: 80px;
   display: flex;
   flex-wrap: wrap;
-  background-color: yellow;
+  background-color: #fdfd96;
 }
 
 .mini-grid div {
